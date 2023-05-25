@@ -1,6 +1,6 @@
 # MicroStore-Manager
-A web application for android. This application allows micro-store owners to easily manage their business with the help of its features which are inventory management and point of sales.
----
+An offline web application for android. This application allows micro-store owners to easily manage their business with the help of its features which are inventory management and point of sales.
+
 # Features
 ## Inventory management
 1. Stock tracking : Record stocks and alert when the stock of certain items are low
