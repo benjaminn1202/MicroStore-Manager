@@ -1,7 +1,7 @@
 # MicroStore-Manager
 A web application for android. This application allows micro-store owners to easily manage their business with the help of its features which are inventory management and point of sales.
-
-# FEATURES
+---
+# Features
 ## Inventory management
 1. Stock tracking : Record stocks and alert when the stock of certain items are low
 2. Expiration date tracking : Record item's expiry date and alert when products are approaching their expiry dates.
